@@ -1,0 +1,13 @@
+{
+  "name": "utils.node",
+  "version": "1.0.0",
+  "description": "javaScript utilities library",
+  "main": "dist/utils.node.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Art Brown",
+  "license": "MIT",
+  "dependencies": {}
+}
